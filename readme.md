@@ -58,13 +58,13 @@
 
 #### - The Year With The Most Request for prosper loan
 
-   #### **OBSERVATION**
-   
-    1. **From 2006 To 2008 The was an evenly distribution of loans from 5000 to 10000 which then droped to less than half of 5000 loan distribution at 2009** 
+#### **OBSERVATION**
 
-    2. **From 2009 To 2013 The Has been a `left skew` Of Distribution Of Loans which then drop drastically from 35000 to 10000 range** 
+1. **From 2006 To 2008 The was an evenly distribution of loans from 5000 to 10000 which then droped to less than half of 5000 loan distribution at 2009** 
 
-    3. **The Year `2013` has The highest loan, ranging from 35000 upward** 
+2. **From 2009 To 2013 The Has been a `left skew` Of Distribution Of Loans which then drop drastically from 35000 to 10000 range** 
+
+3. **The Year `2013` has The highest loan, ranging from 35000 upward** 
 
 
 
